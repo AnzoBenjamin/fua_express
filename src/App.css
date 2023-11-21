@@ -411,6 +411,11 @@ a:focus {
           margin-top: 8rem;
 }
 
+.logo{
+  height: 9.6rem;
+  width: 9.6rem;
+}
+
 .about_section .detail-box h2 {
   text-transform: uppercase;
   font-weight: bold;
